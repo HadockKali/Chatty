@@ -36,12 +36,12 @@ for line in f2:
 def send_message(message):
     keyboard.press(Key.enter)
     keyboard.release(Key.enter)
-    time.sleep(0.04)
+    time.sleep(0.02)
     keyboard.type(message)
-    time.sleep(0.04)
+    time.sleep(0.02)
     keyboard.press(Key.enter)
     keyboard.release(Key.enter)
-    time.sleep(0.04)
+    time.sleep(0.02)
 
 
 while 1:
