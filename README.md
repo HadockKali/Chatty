@@ -9,7 +9,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/HadockKali/Chatty">
-    <img src="images/leaguechat.jpg" alt="Logo" width="300" height="300">
+    <img src="images/leaguechat.jpg" alt="Logo" width="260" height="260">
   </a>
 
   <h3 align="center">Chatty</h3>
