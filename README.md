@@ -59,7 +59,7 @@
 I think the title is self explanatory enough, since the code is simple and short I will keep it brief. This is a Python script that automatically get's your current Kills/Deaths and upon incrementing that number it triggers an event, upon that trigger the '/all' command followed by your custom messages in the designated folders is typed in the League of Legends chat. It's nothing fancy but keeps you and the enemy team entertained, hope you like it!
 
 ###### DISCLAIMER! 
-This script is not meant to be used as a derogatory chat tool, it's meant to be used in normal games, with friendly banter at most! If you get banned for using this script it's not my fault, I'm not responsible for any bans that may occur. It's your responsibility to use this script in a friendly manner. Be careful about what you type in the messages folder. Have fun!
+This script is not meant to be used as a derogatory chat tool, it's meant to be used in normal games, with friendly banter at most! If you get banned for using this script it's not my fault, I'm not responsible for any bans that may occur. It's your responsibility to use this script in a friendly manner. Be careful about what you type in the messages text file. Have fun!
 
 ### Built With
 
